@@ -1,1 +1,1 @@
-Git tutorial Christopher Tao
+Git tutorial Christopher Tao UChicago Student Resource Guide
